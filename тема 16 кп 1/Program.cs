@@ -27,12 +27,19 @@ namespace тема_16_кп_1
             //    $"{date2.Month}\t{date2.Year}\t{date2.TimeOfDay}" +
             //    $"");
             //Задание 2 
-            Console.WriteLine("Введите дату:");
-            DateTime oneDite=DateTime.Parse(Console.ReadLine());
-            Console.WriteLine("Введите дату:");
-            DateTime twoDite = DateTime.Parse(Console.ReadLine());
-            TimeSpan timeDifference = oneDite - twoDite;
-            Console.WriteLine($" Колличество дней между датами:{timeDifference}");
+            //Console.Write("Введите возраст человека ");
+            //{
+            //    int age = Convert.ToInt32(Console.ReadLine());
+            //    int year = DateTime.Now.Year - DateTime.Now.Month-age;
+            //    Console.WriteLine($"ты родился в {year}году ");
+            //}
+            //Задача 3
+            Console.Write("Год рождения ");
+            {
+                int year = Convert.ToInt32(Console.ReadLine());
+                int age = DateTime.Now.Year - DateTime.Now.Month - year;
+                Console.WriteLine($"Твой возраст  {age}");
+            }
 
             Console.ReadKey();
         }
