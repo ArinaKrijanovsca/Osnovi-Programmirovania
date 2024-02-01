@@ -2,7 +2,6 @@ C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 16 кп 1\bin\De
 C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 16 кп 1\bin\Debug\тема 16 кп 1.exe
 C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 16 кп 1\bin\Debug\тема 16 кп 1.pdb
 C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 16 кп 1\obj\Debug\тема 16 кп 1.csproj.AssemblyReference.cache
-C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 16 кп 1\obj\Debug\тема 16 кп 1.csproj.SuggestedBindingRedirects.cache
 C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 16 кп 1\obj\Debug\тема 16 кп 1.csproj.CoreCompileInputs.cache
 C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 16 кп 1\obj\Debug\тема 16 кп 1.exe
 C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 16 кп 1\obj\Debug\тема 16 кп 1.pdb

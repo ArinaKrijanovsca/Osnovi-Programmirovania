@@ -15,7 +15,7 @@ namespace тема_16_кп_1
             //Задание 1
             //DateTime date1 = new DateTime(2022, 1, 20);
             //Console.WriteLine(date1);
-            //DateTime date2 = new DateTime(2022, 1, 25 ,21,30,25);
+            //DateTime date2 = new DateTime(2022, 1, 25, 21, 30, 25);
             //Console.WriteLine(date2.DayOfWeek);
             //Console.WriteLine(date2.Month);
             //Console.WriteLine(date2.Year);
@@ -27,8 +27,12 @@ namespace тема_16_кп_1
             //    $"{date2.Month}\t{date2.Year}\t{date2.TimeOfDay}" +
             //    $"");
             //Задание 2 
-            DateTime date3 = new DateTime(2006, 5, 20);
-            Console.WriteLine($"Ты родился в {date3.Year}году\t{date3.Month}месяца\t{date3.Day}числа");
+            Console.WriteLine("Введите дату:");
+            DateTime oneDite=DateTime.Parse(Console.ReadLine());
+            Console.WriteLine("Введите дату:");
+            DateTime twoDite = DateTime.Parse(Console.ReadLine());
+            TimeSpan timeDifference = oneDite - twoDite;
+            Console.WriteLine($" Колличество дней между датами:{timeDifference}");
 
             Console.ReadKey();
         }
