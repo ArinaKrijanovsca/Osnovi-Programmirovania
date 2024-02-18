@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 17 кп 3\bin\Debug\тема 17 кп 3.exe.config
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 17 кп 3\bin\Debug\тема 17 кп 3.exe
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 17 кп 3\bin\Debug\тема 17 кп 3.pdb
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 17 кп 3\obj\Debug\тема 17 кп 3.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 17 кп 3\obj\Debug\тема 17 кп 3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 17 кп 3\obj\Debug\тема 17 кп 3.exe
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 17 кп 3\obj\Debug\тема 17 кп 3.pdb
