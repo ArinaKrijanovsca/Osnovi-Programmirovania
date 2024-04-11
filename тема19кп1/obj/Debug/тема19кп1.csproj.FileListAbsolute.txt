@@ -1,7 +1,0 @@
-C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема19кп1\bin\Debug\тема19кп1.exe.config
-C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема19кп1\bin\Debug\тема19кп1.exe
-C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема19кп1\bin\Debug\тема19кп1.pdb
-C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема19кп1\obj\Debug\тема19кп1.csproj.AssemblyReference.cache
-C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема19кп1\obj\Debug\тема19кп1.csproj.CoreCompileInputs.cache
-C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема19кп1\obj\Debug\тема19кп1.exe
-C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема19кп1\obj\Debug\тема19кп1.pdb
