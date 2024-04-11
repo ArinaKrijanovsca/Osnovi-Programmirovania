@@ -6,23 +6,21 @@ using System.Threading.Tasks;
 
 namespace тема19кп1
 {/// <summary>
-/// класс прямоугольник
+/// класс  описывающий прямоугольник
 /// </summary>
     internal class Rectangle:MyInterface
-    {
+    {/// <summary>
+    /// поле описывающее имя
+    /// </summary>
         string Name {  get; set; }
         /// <summary>
-        /// поля описывающие стороны
+        /// поле описывающие сторону Side1
         /// </summary>
-        int side1, side2;
+        int Side1 {  get; set; }
         /// <summary>
-        /// свойство для стороны а
+        /// поле описывающие сторону Side2
         /// </summary>
-        public int Side1 { get => side1; set => side1 = value; }
-        /// <summary>
-        /// свойство для стороны б
-        /// </summary>
-        public int Side2 { get => side2; set => side2 = value; }
+        int Side2 { get; set; }
 
         /// <summary>
         /// конструктор по умолчанию 
@@ -37,8 +35,8 @@ namespace тема19кп1
         public Rectangle(string name, int side1, int side2) 
         {
             this.Name = name;
-            this.side1 = side1;
-            this.side2 = side2;
+            this.Side1 = side1;
+            this.Side2 = side2;
         }
         /// <summary>
         /// метод для нахождения площади 
@@ -46,7 +44,7 @@ namespace тема19кп1
         /// <returns>площадь прямоугольника </returns>
         public  double Area()
         { 
-            return side1 * side2;
+            return Side1 * Side2;
         }
         /// <summary>
         /// метод для нахождения периметра
@@ -54,7 +52,7 @@ namespace тема19кп1
         /// <returns>периметр прямоугольника</returns>
         public  double Perimeter()
         {
-            return (side1 + side2) * 2;
+            return (Side1 + Side2) * 2;
         }
         /// <summary>
         /// метод для вывода информации об объекте
@@ -62,20 +60,8 @@ namespace тема19кп1
         /// <returns>поля класса</returns>
         public override string ToString()
         {
-            return $"Название фигуры-{Name} а={side1} б={side2}";
+            return $"Название фигуры-{Name} а={Side1} б={Side2}";
         }
-        /// <summary>
-        /// метод для ввода данных об объекте
-        /// </summary>
-        /// <returns>конструктор с параметрами </returns>
-        public static Rectangle Input()
-        {
-            string name = "Прямоугольник";
-            Console.WriteLine("а=");
-            int side1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("б=");
-            int side2 = int.Parse(Console.ReadLine());
-            return new Rectangle(name, side1, side2);
-        }
+        
     }
 }

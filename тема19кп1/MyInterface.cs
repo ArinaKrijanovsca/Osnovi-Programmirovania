@@ -5,22 +5,20 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace тема19кп1
-{
+{/// <summary>
+/// интерфейс с 2 методами
+/// </summary>
     internal interface MyInterface
     {
-        
-       
-       
+       /// <summary>
+       /// метод нахождения площади
+       /// </summary>
+       /// <returns></returns>
           double Area();
         /// <summary>
-        /// абстрактный метод нахождения периметра
+        ///  метод нахождения периметра
         /// </summary>
         /// <returns>периметр</returns>
          double Perimeter();
-        /// <summary>
-        /// метод для вывода информации об объекте
-        /// </summary>
-        /// <returns>поля класса</returns>
-        
     }
 }
