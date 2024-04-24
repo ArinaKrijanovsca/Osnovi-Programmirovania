@@ -1,0 +1,21 @@
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\курсовая код\bin\Debug\курсовая код.exe.config
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\курсовая код\bin\Debug\курсовая код.exe
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\курсовая код\bin\Debug\курсовая код.pdb
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\курсовая код\obj\Debug\курсовая код.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\курсовая код\obj\Debug\курсовая код.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\курсовая код\obj\Debug\курсовая код.exe
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\курсовая код\obj\Debug\курсовая код.pdb
+C:\Users\Dell\Desktop\отчеты  по рпм\курсовая код\bin\Debug\курсовая код.exe.config
+C:\Users\Dell\Desktop\отчеты  по рпм\курсовая код\bin\Debug\курсовая код.exe
+C:\Users\Dell\Desktop\отчеты  по рпм\курсовая код\bin\Debug\курсовая код.pdb
+C:\Users\Dell\Desktop\отчеты  по рпм\курсовая код\obj\Debug\курсовая код.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\отчеты  по рпм\курсовая код\obj\Debug\курсовая код.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\отчеты  по рпм\курсовая код\obj\Debug\курсовая код.exe
+C:\Users\Dell\Desktop\отчеты  по рпм\курсовая код\obj\Debug\курсовая код.pdb
+C:\Users\Dell\Desktop\курсовая\курсовая код\bin\Debug\курсовая код.exe.config
+C:\Users\Dell\Desktop\курсовая\курсовая код\bin\Debug\курсовая код.exe
+C:\Users\Dell\Desktop\курсовая\курсовая код\bin\Debug\курсовая код.pdb
+C:\Users\Dell\Desktop\курсовая\курсовая код\obj\Debug\курсовая код.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\курсовая\курсовая код\obj\Debug\курсовая код.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\курсовая\курсовая код\obj\Debug\курсовая код.exe
+C:\Users\Dell\Desktop\курсовая\курсовая код\obj\Debug\курсовая код.pdb
