@@ -8,11 +8,13 @@ namespace курсовая_код
 {/// <summary>
 /// класс описывающий кафедру
 /// </summary>
+    [Serializable]
     internal class Department
     {/// <summary>
     /// свойтсво для поля название кафедры
     /// </summary>
        public string Namek {  get; set; }
+        public DateTime DateK { get; set; }
         /// <summary>
         /// свойтсво для поля фамилия
         /// </summary>
@@ -51,9 +53,10 @@ namespace курсовая_код
         /// <param name="countPrepodovatel">колличество преподователей</param>
         /// <param name="ayditoria">номер аудиитории</param>
         /// <param name="korpus">корпус</param>
-        public Department(string namek,string name,string otchestvo,string surname,int countPrepodovatel,int ayditoria,char korpus) 
+        public Department(string namek, DateTime datek,string name,string otchestvo,string surname,int countPrepodovatel,int ayditoria,char korpus) 
         {
             Namek = namek;
+            DateK = datek;
             Name = name;
             Otchestvo = otchestvo;
             Surname = surname;
@@ -68,8 +71,8 @@ namespace курсовая_код
        /// <returns></returns>
         public override string ToString()
         {
-            return $"Название кафедры:{Namek}\nФамилия заведующего:{Surname}\nИмя Заведующего:{Name}\nФамилия заведующего:{Otchestvo}\nКолличество преподователей" +
-                $":{CountPrepodovatel}\nНомер аудиории:{Ayditoria}\nКорпус:{Korpus}";
+            return $"Название кафедры:{Namek} Дата создания кафедры:{DateK.ToShortDateString()}\nФИО заведующего:{Surname} {Name} {Otchestvo}\nКолличество преподователей" +
+                $":{CountPrepodovatel} Номер аудиории:{Ayditoria} Корпус:{Korpus}";
         }
 
     }
