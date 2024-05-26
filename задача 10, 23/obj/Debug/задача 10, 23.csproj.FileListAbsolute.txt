@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\задача 10, 23\bin\Debug\задача 10, 23.exe.config
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\задача 10, 23\bin\Debug\задача 10, 23.exe
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\задача 10, 23\bin\Debug\задача 10, 23.pdb
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\задача 10, 23\obj\Debug\задача 10, 23.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\задача 10, 23\obj\Debug\задача 10, 23.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\задача 10, 23\obj\Debug\задача 10, 23.exe
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\задача 10, 23\obj\Debug\задача 10, 23.pdb
