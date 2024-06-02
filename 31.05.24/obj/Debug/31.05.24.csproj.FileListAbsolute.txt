@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\31.05.24\bin\Debug\31.05.24.exe.config
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\31.05.24\bin\Debug\31.05.24.exe
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\31.05.24\bin\Debug\31.05.24.pdb
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\31.05.24\obj\Debug\31.05.24.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\31.05.24\obj\Debug\31.05.24.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\31.05.24\obj\Debug\31.05.24.exe
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\31.05.24\obj\Debug\31.05.24.pdb
